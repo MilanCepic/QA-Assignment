@@ -1,7 +1,7 @@
 # QA-Assignment
 ‘Ananas’ Product Search
 
-## 1. Playwright Automation with JavaScript
+## Playwright Automation with JavaScript
 
 ### Introduction
 This project provides a framework for automating frontend tests using **Playwright** with **JavaScript**.
